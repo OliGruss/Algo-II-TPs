@@ -1,0 +1,55 @@
+G;Gimnasio Draco;99;5
+L;Líder Ernesto
+P;Dragonair;100;90;85
+P;Altaria;100;90;110
+P;Flygon;110;110;90
+P;Dragapult;150;120;75
+E;Alfonso el piloto
+P;Hakamo-o;80;80;90
+P;Shelgon;50;95;100
+P;Gabite;80;90;65
+E;Eduardo el soldado
+P;Bagon;50;75;60
+P;Zweilous;60;85;70
+G;Gimnasio Férreo;50;3
+L;Líder Rodolfo
+P;Metang;50;75;100
+P;Steelix;30;75;130
+P;Aegislash;60;50;140
+E;Pedro el herrero
+P;Ferroseed;10;50;90
+P;Lairon;40;90;110
+E;Francisco el plomero
+P;Magnemite;45;35;70
+P;Skarmory;70;80;120
+G;Gimnasio Puño;25;2
+L;Lider Lucho
+P;Machoke;45;100;70
+P;Hawlucha;120;100;75
+P;Lucario;90;120;80
+E;Jason el boxeador
+P;Crabrawler;60;80;60
+P;Hitmonchan;75;100;80
+E;Lucrecia la personal trainer
+P;Mankey;70;80;35
+P;Poliwrath;70;95;95
+G;Gimnasio Blanco;75;4
+L;Líder Fernando
+P;Chansey;50;5;100
+P;Tauros;110;100;95
+P;Snorlax;30;110;120
+E;Lucas el estudiante
+P;Eevee;55;50;55
+P;Dodrio;110;110;70
+E;Sofía la cocinera
+P;Farfetch'd;60;90;55
+P;Raticate;100;80;60
+G;Gimnasio Rayo;10;1
+L;Lider Mcqueen
+P;Jolteon;100;65;60
+P;Electrode;120;50;70
+E;Tomás el electricista
+P;Chinchou;70;40;40
+P;Pikachu;90;55;40
+E;Santiago el informático
+P;Magneton;70;60;95

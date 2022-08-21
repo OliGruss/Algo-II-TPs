@@ -1,0 +1,11 @@
+E;Olivier Gruss
+P;Dragapult;140;110;65
+P;Lycanroc;110;65;110
+P;Decidueye;70;110;75
+P;Kabutops;80;130;105
+P;Alakazam;120;100;70
+P;Scizor;65;100;140
+P;Crobat;130;90;80
+P;Arcanine;95;80;110
+P;Sceptile;120;85;65
+P;Gengar;95;65;110
